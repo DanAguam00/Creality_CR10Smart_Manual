@@ -1,0 +1,87 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPdj3LckvNm548sagVAsRaH",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/DanAguam00/Creality_CR10Smart_Manual/blob/Skeletal_Form/main\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "dd23ruTXvXDE"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#3D Printer User Manual\n",
+        "###Creality CR10 Smart"
+      ],
+      "metadata": {
+        "id": "yKQ6yIcIvaPK"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Table of Contents:\n",
+        "\n",
+        "\n",
+        "\n",
+        "1.   Introduction\n",
+        "2.   Parameters\n",
+        "3.   Parts list\n",
+        "4.   Assemble the 3D Printer\n",
+        "5.   Pairng via Bluetooth\n",
+        "6. Offlin\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "8y7-kQeYxc1d"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#####Resources:\n"
+      ],
+      "metadata": {
+        "id": "zyFbDEEkw0Xg"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "5RchagUuxaXZ"
+      }
+    }
+  ]
+}
